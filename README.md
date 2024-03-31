@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+**WARNING**
+These files will be/is used in a web application.
+DO NOT copy these files blindly if you don't want any copyright issues.
 
 * Ruby version
 
