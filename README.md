@@ -1,9 +1,8 @@
 # README
 
-**WARNING**
-These files will be/is used in a web application.
-DO NOT copy these files blindly if you don't want any copyright issues.
-
+**NOTICE**
+The files in this repository will be/is used in a web app.
+We beg you not to copy our code blindly. You CAN copy our code, just don't do it blindly.
 
 * Ruby version
 
